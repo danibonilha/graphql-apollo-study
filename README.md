@@ -1,10 +1,10 @@
 # A GraphQL study server example
 
->  **A simple, straight forward guide to building a GraphQL server with Apollo Server.**
+>  **A simple example of a GraphQL server with Apollo Server.**
 
 ## About this repository
 
-This repository was the example application for the [_Getting Started_ guide](https://www.apollographql.com/docs/apollo-server/v2/getting-started.html) in the Apollo Server documentation. But it was modified for study purposes.
+This repository was the example application for the [_Getting Started_ guide](https://www.apollographql.com/docs/apollo-server/v2/getting-started.html) in the Apollo Server documentation. But it was modified for study purposes, adding examples of Query, Mutation and Subscription.
 
 
 ## Installation
